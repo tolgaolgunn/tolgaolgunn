@@ -43,6 +43,18 @@ I am Tolga. I'm 21 years old. I study software engineering at Celal Bayar Univer
 
 ---
 
+## 🏆 Badges & Achievements  
+
+### DEV Community  
+![One Year Club](https://via.placeholder.com/100x100.png?text=One+Year+Club)  
+Celebrating 1+ year as a proud member of the DEV Community!
+
+### Codewars  
+[![Codewars Badge](https://www.codewars.com/users/tolgaolgunn/badges/large)](https://www.codewars.com/users/tolgaolgunn)  
+Leveling up my coding skills with **Codewars challenges**!  
+
+---
+
 ## GitHub Stats:
 
 ![Tolga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tolgaolgunn&show_icons=true&theme=radical)
